@@ -1,0 +1,13 @@
+.navbar{
+    justify-content: space-between
+}
+a{
+    margin-right: 10px;
+    text-decoration: none;
+    color: #ffffff
+}
+.container{
+    width: 80%;
+    margin: auto;
+    margin-bottom: 20px
+}
